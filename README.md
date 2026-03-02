@@ -8,3 +8,16 @@ Uma **TodoApp** é nada mais nada menos do que um aplicativo online que armazena
 - Ver histórico de tarefas concluídas
 - Criar, Editar e eliminar uma Lista
 - Outras funcionalidades seram adicionadas a posterior!
+
+## Fluxo da aplicacão
+- Usuario acessa o index pela URL
+- Clica no botao criar lista e um evento e disparado
+- Na folha aparece um campo de input criado 
+- O Usuario escreve a tarefa no campo e o sistema guarda num array 
+- Aparece as opcoes de Editar e eliminar a tarefa ou marcar como concluida
+- Outras funcionalidades seram adicionadas a posterior!
+
+## Esboço simples da tela
+Essa imagem bem fusca é simplesmente uma demonstração de como a interface final será desenvolvida o objectivo é ter uma visão geral de como as coisas serão implementadas
+
+![Imagem que representa a tela inicial do app](assets/image.png)
