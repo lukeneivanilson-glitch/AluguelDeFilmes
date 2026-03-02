@@ -5,6 +5,6 @@ Uma **TodoApp** é nada mais nada menos do que um aplicativo online que armazena
 - Criar, Editar e eliminar uma Lista
 - Adicionar itens a Lista
 - Marcar como concluída uma tarefa da lista
-- Adicionar itens a Lista
+- Ver histórico de tarefas concluídas
 - Criar, Editar e eliminar uma Lista
-- Adicionar itens a Lista
+- Outras funcionalidades seram adicionadas a posterior!
